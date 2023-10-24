@@ -1,4 +1,4 @@
-# Reducing the Impact of ARP Spoofing Attacks in a Software-Defined Network
+# Enhancing Security in Software-Defined Networks: A Dynamic Approach to Efficient ARP Spoofing Attacks Mitigation
 
 Reducing the impact of ARP spoofing attacks in a Software-Defined Network (SDN) is a complex task, as it involves interacting with SDN controllers, switches, and network components.
 
