@@ -5,6 +5,16 @@ Reducing the impact of ARP spoofing attacks in a Software-Defined Network (SDN) 
 # Authors
 Vanlalruata Hnamte and Jamal Hussain
 
+# Journal
+Telematics and Informatics Reports
+
+# Date of Submission
+21st September 2023 | 24th October 2023
+
+# Date of First Return for Revision
+20th October 2023
+
+
 # Code
 Note that this code is for educational purposes. In a real-world scenario, you would need to carefully design and test your ARP spoofing detection and mitigation logic and consider the impact of blocking MAC addresses on legitimate traffic.
 
