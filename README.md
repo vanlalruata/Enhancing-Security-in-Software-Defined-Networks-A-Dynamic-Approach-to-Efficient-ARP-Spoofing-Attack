@@ -14,6 +14,13 @@ Telematics and Informatics Reports
 # Date of First Return for Revision
 20th October 2023
 
+# Date of Second Return for Revision
+4th Feb 2024
+
+# Date of Acceptance
+2nd March 2024
+
+Please cite this article as: V. Hnamte and J. Hussain, Enhancing security in software-defined networks: An approach to efficient ARP spoofing attacks detection and mitigation, Telematics and Informatics Reports (2024), doi: https://doi.org/10.1016/j.teler.2024.100129.
 
 # Code
 Note that this code is for educational purposes. In a real-world scenario, you would need to carefully design and test your ARP spoofing detection and mitigation logic and consider the impact of blocking MAC addresses on legitimate traffic.
